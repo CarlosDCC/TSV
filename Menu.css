@@ -1,0 +1,42 @@
+.Menu{
+    width: 1080px;
+    height: 400px;
+    /*border:solid black;*/
+    position: relative;
+    top: 100px;
+    margin:1em auto;
+}
+.Entrada{
+    width: 200px;
+    height: 100px;
+    border:solid BLACK;
+    position: absolute;
+    top: 50px;
+    right: 150px;
+    
+    text-align: center;
+    font-size: 20px;
+    font-family:Helvetica;
+}
+.Patio{
+    width: 200px;
+    height: 100px;
+    border:solid BLACK;
+    position: absolute;
+    top: 50px;
+    right: 430px;
+    font-size: 20px;
+    text-align: center;
+    font-family:Helvetica;
+}
+.Salida{
+    width: 200px;
+    height: 100px;
+    border:solid BLACK;
+    position: absolute;
+    top: 50px;
+    left: 150px;
+    font-size: 20px;
+    text-align: center;
+    font-family:Helvetica;
+}

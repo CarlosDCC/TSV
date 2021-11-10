@@ -1,0 +1,46 @@
+.container{
+    width: 300px;
+    height: 180px;
+    border:solid black;
+    position: relative;
+    top: 100px;
+    margin:1em auto;
+}
+form{
+    text-align: center;
+    padding: 5px;
+    font-family:Helvetica;
+    font-style: bold;
+    font-size: 20px;
+
+
+}
+.user{
+    border:solid black;
+    position: relative;
+    top: 4px;
+    right: 1px;
+    margin-bottom: 10px;
+    font-family:Helvetica;
+    font-style: bold;
+    font-size: 20px;
+}
+.password{
+    border:solid black;
+    position: relative;
+    top:5px;
+    right: 1px;
+    font-family:Helvetica;
+    font-style: bold;
+    font-size: 20px;
+}
+
+.ingresar{
+    border:solid black;
+    position: relative;
+    top:20px;
+    left:5px;
+    font-family:Helvetica;
+    font-style: bold;
+    font-size: 20px;
+}
